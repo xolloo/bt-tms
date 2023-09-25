@@ -10,6 +10,7 @@ def get_cpu_info():
 
 def get_mem_info():
     info = {}
+    ...
     return info
 
 
