@@ -10,7 +10,6 @@ def get_cpu_info():
 
 def get_mem_info():
     info = {}
-    ...
     return info
 
 
@@ -20,7 +19,7 @@ def cpu_show(cpu_i):
 
 
 def show(cpu, mem, proc):
-    ...
+    print(cpu)
     cpu_show(cpu)
 
 
